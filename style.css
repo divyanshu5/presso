@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+body
+{
+   background-image: url(images/background.jpg);
+   -webkit-background-size: cover;
+   background-size: cover;
+   
+   
+}
+#main{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(119, 23, 95);
+}
+#heading{
+font-family: 'Playfair Display', serif;
+font-size: 500%;
+color:white;
+}
+#subscript{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 100%;
+color: white;
+}
+img{
+    height: 20%;
+    width: 20%;
+   
+}
+.description{
+font-family: 'Libre Baskerville', serif;
+}
+h2{
+    text-align: center;
